@@ -1,0 +1,1 @@
+node FBLiker.js "credentialsFB.json" "https://www.facebook.com/thehindu/" 15

@@ -1,0 +1,1 @@
+node youtube.js "./songName.json"
